@@ -1,4 +1,4 @@
-public class AdapterClient {
+public class AdapterTest {
     public static void main(String[] args) {
         PointControl pointControl = new PointControlAdapter(); 
         Employee employee = new Employee("João Pedro");
